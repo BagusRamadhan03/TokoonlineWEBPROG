@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Laravel build output
+public/build/
+public/hot/
+public/storage/
+storage/*.key
+
+# Env
+.env
+.env.backup
+.env.production
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Misc
+.phpunit.cache/
+Homestead.json
+Homestead.yaml
+auth.json
